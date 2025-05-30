@@ -1,0 +1,5 @@
+def cal_triangulo (base,altura):
+    return (base*altura)/2
+
+area = cal_triangulo (5,5)
+print (f"la area es: {area}")

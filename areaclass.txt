@@ -1,0 +1,8 @@
+class triangulo:
+        def cal_datos(self, base, altura): 
+            return (base*altura)/2
+       
+
+area= triangulo()
+result = area.cal_datos (5, 5)
+print (f"la area es: {result}" ) 

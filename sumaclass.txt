@@ -1,0 +1,8 @@
+class sumar:
+        def cal_datos(self, num1, num2): 
+            return num1 + num2
+       
+
+suma= sumar()
+result = suma.cal_datos (5, 5)
+print (f"la suma es: {result}" ) 

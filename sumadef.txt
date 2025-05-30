@@ -1,0 +1,5 @@
+def sumar( num1, num2): 
+    return num1 + num2
+       
+result = sumar (5, 5)
+print (f"la suma es: {result}" ) 
