@@ -1,0 +1,8 @@
+Algoritmo sumadedosnum
+	escribir "ingresa el num1:"
+	leer num1
+	escribir "ingresa el num2:"
+	leer num2
+	suma = num1+num2
+	escribir "la suma es: ", suma
+FinAlgoritmo

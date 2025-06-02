@@ -1,0 +1,8 @@
+Algoritmo areadeltriangulo
+	escribir "ingresa la base:"
+	leer base
+	escribir "ingresa la altura:"
+	leer altura
+	area <- base*altura/2
+	escribir "la area del triangulo es: ", area
+FinAlgoritmo
